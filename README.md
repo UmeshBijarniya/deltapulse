@@ -1,3 +1,5 @@
+click here to view live :- https://deltapulse.vercel.app/
+
 # ⚡ DeltaPulse — Real-Time High-Frequency Trading Terminal
 
 > **An institutional-grade, zero-lag financial market terminal engineered for active equity, derivatives, and crypto traders.**  
